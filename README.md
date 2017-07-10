@@ -1,6 +1,6 @@
 # Github Search
 
-Simple Angular 2 app that searches Github user profiles and repositories. Goes along with video tutorial at https://www.youtube.com/watch?v=u83MLQ1VsKI
+Simple Angular 2 app that searches Github user profiles and repositories. 
 
 ### Version
 1.1 - Uses Angular 2.0.0 The original version that uses RC4 is in the "rc4_old" folder, it must be removed if you want to run the app with "npm run" after installing the packages with "npm install" command.
